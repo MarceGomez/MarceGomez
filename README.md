@@ -1,5 +1,5 @@
 # Acerca de mi
-¡Hola!, soy Marcela, ingeniera de software en formación, apasionada por la tecnología, con experiencia en programación, desarrollo y arquitectura de software.  Me encanta el networking, el aprendizaje continuo y el emprender.
+¡Hola!, soy Marcela, ingeniera de software en formación, apasionada por la tecnología, con experiencia en programación, desarrollo y arquitectura de software.  Me encanta el networking, el aprendizaje continuo, emprender, la música y viajar.
 
 
 ## Socials
