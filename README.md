@@ -1,7 +1,9 @@
 # About me
-Hi! I'm Marce, a software engineering student with a passion for technology. I have experience in programming, software development, and architecture. I enjoy networking, continuous learning, entrepreneurship, music, and traveling.
+¡Hola, soy Marcela! Ingeniera de Software, con experiencia de más de 5 años en desarrollo y administración de soluciones tecnológicas, cuento con sólidos conocimientos en DevOps, DataOps y Cloud Computing. 
 
-¡Hola!, soy Marce, ingeniera de software en formación, apasionada por la tecnología, con experiencia en programación, desarrollo y arquitectura de software.  Me encanta el networking, el aprendizaje continuo, emprender, la música y viajar.
+Mi experiencia se ha construido haciendo parte de proyectos empresariales, laboratorios personales y educativos.
+
+Busco seguir creciendo profesional y académicamente en esta área de conocimiento y, poderme sumar a equipos para quienes su sello diferencial sea la innovación tecnológica.
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmarcegomez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmarcela-gomezg) 
